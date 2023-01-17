@@ -22,3 +22,9 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
+
+# remove jupyter notebook checkpoints 
+.ipynb_checkpoints
+
+# remove annoying mac thing 
+**/.DS_Store
