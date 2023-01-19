@@ -1,6 +1,6 @@
 # HW0
 
-[HW0 Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg)
+[HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg)
 
 ## Getting Started
 All the homeworks are distributed as Jupyter notebooks. Follow these instructions to get everything set up.
