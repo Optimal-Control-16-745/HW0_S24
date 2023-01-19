@@ -9,3 +9,11 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 3. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
 4. In the REPL (hit backspace to exit the package manager), enter `using IJulia`
 5. Launch the notebook using `notebook()` or `jupyterlab()`
+
+## HW Instructions 
+
+Fill out `Q1.ipynb` and `Q2.ipynb` and use print preview -> print -> save as PDF.
+
+## Submission Instructions 
+
+Submit on gradescope as a PDF.
