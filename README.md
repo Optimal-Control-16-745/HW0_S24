@@ -14,8 +14,8 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 
 ## HW Instructions 
 
-Fill out `Q1.ipynb` and `Q2.ipynb` and use print preview -> print -> save as PDF.
+Fill out `Q1.ipynb` and `Q2.ipynb`.
 
 ## Submission Instructions 
 
-Submit on gradescope as a PDF.
+Use any method you like to export your jupyter notebook as a PDF (with all the cell outputs shown), and **submit on gradescope**. Here are some methods for creating this PDF: [https://mljar.com/blog/jupyter-notebook-pdf/](https://mljar.com/blog/jupyter-notebook-pdf/). 
